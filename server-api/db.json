@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "a2d772cb-b67e-494a-a703-42d707487d20",
+      "name": "Rupali Patil",
+      "email": "rup@cybage.com"
+    },
+    {
+      "id": "24923d46-9574-4ae6-b110-ccd5d4580113",
+      "name": "Chetan Patil",
+      "email": "cheta@gmail.com"
+    },
+    {
+      "id": "a92fa124-2f43-4972-84c8-a884e7d88e6f",
+      "name": "shweta Patil",
+      "email": "shweta@gmail.com"
+    },
+    {
+      "id": "c55d0b37-2e17-4ff2-9f81-5e7f0fed5d4b",
+      "name": "niraj",
+      "email": "niraj@yahoo.com"
+    }
+  ]
+}
